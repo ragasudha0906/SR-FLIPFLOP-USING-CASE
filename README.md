@@ -57,7 +57,8 @@ RegisterNumber:24900684
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![WhatsApp Image 2024-12-01 at 18 56 29_ce6cf5b3](https://github.com/user-attachments/assets/811ced10-055f-4d1f-87fb-6e0a3c5f7ef5)
+![Screenshot 2024-12-10 140600](https://github.com/user-attachments/assets/1085ca9b-b767-47ec-b657-737ac2cae7eb)
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
